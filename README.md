@@ -1,0 +1,10 @@
+运行系统：Ubuntu22.04
+主要运行环境：
+ONNX Runtime 1.17.1
+CUDA 12.1
+OPENCV 4.9
+CMAKE 3.5
+C++17
+运行硬件
+NVIDIA GTX1650Ti (4G)
+Intel i7-10750H
